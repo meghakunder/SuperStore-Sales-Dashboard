@@ -24,7 +24,7 @@ The dashboard helps analyze:
 # Dashboard Pages
 
 ## 1. Overview Dashboard
-![Overview Dashboard](Screenshot/Overview.png)
+![Overview Dashboard](Screenshots/Overview.png)
 
 Key business KPIs and overall sales performance analysis.
 
@@ -51,7 +51,7 @@ Key business KPIs and overall sales performance analysis.
 ---
 
 ## 2. Profit & Return Analysis
-![Profit Analysis Dashboard](Screenshot/Profit%20Analysis.png)
+![Profit Analysis Dashboard](Screenshots/Profit%20Analysis.png)
 
 Detailed analysis of profits, losses, and product returns.
 
@@ -75,7 +75,7 @@ Detailed analysis of profits, losses, and product returns.
 
 ## 3. 15-Day Sales Forecast Analysis
 
-![Forecast Analysis Dashboard](Screenshot/Forecast%20Analysis.png)
+![Forecast Analysis Dashboard](Screenshots/Forecast%20Analysis.png)
 
 Forecasting future sales trends using historical sales data.
 
